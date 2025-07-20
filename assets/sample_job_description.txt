@@ -1,0 +1,3 @@
+Job Title: Machine Learning Engineer
+Description:
+Looking for a candidate with strong Python skills to build and deploy ML models. Must know data preprocessing, scikit-learn, and one deep learning framework like TensorFlow or PyTorch. Should be able to solve real-world problems using classification and regression techniques.
